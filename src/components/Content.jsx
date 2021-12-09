@@ -31,7 +31,7 @@ export default function Content() {
       <aside>
         <div className="profil">
           <img
-            src="https://image.shutterstock.com/image-photo/kiev-ukraine-april-20-2015-260nw-273231134.jpg"
+            src="https://images.pexels.com/photos/3680219/pexels-photo-3680219.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
             alt=""
           />
           <h1>Jane Doe</h1>
